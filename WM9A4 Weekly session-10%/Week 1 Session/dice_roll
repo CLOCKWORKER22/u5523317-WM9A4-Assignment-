@@ -1,0 +1,6 @@
+import random
+
+def roll_dice():
+    return ramdom.rand(1,7)
+
+print()
