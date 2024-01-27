@@ -6,3 +6,5 @@ week 2: https://github.com/CLOCKWORKER22/u5523317-WM9A4-Assignment-/tree/0f79948
 
 # WM9A4 70% assignment code & material
 https://github.com/CLOCKWORKER22/u5523317-WM9A4-Assignment-/tree/dfab5e4a5894198ca9d559d3bfedc1bad6392e88/Code
+
+# WM9A4 20% programming test
